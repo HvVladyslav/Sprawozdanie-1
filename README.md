@@ -20,7 +20,6 @@ d. sprawdzenia, ile warstw posiada zbudowany obraz (tu trzeba wcześniej zainsta
 `docker image inspect  http | jq '.[].RootFS.Layers'`
  *Obraz posiada 7 warstw.*
 
-![](https://github.com/dmkard/pco_zad1/blob/main/Resources/screenshot.png)
 ![](https://github.com/HvVladyslav/Sprawozdanie-1/blob/main/Screen/Screen.png)
 
 # Zadanie 4
